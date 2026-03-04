@@ -1,3 +1,2 @@
-__Pycache__/
-venv/
-.env
+__Pycache__/\nvenv/\n.env/
+\n+.pyc
