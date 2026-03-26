@@ -12,3 +12,4 @@ projet realise pour apprendre les bases des **API REST** et de l'architecture **
 - Lecture d'un item par ID (GET)
 - Documentation automatique sur "/docs"# Todolist
 c'est comme ceci qu'on fait pour lancer ce projet 
+ici c'est mon premier API avec le framework fastapi de python.!!!
