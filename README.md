@@ -11,3 +11,4 @@ projet realise pour apprendre les bases des **API REST** et de l'architecture **
 - Lecture de la liste (GET)
 - Lecture d'un item par ID (GET)
 - Documentation automatique sur "/docs"# Todolist
+c'est comme ceci qu'on fait pour lancer ce projet 

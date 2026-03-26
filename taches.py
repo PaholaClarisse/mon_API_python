@@ -75,7 +75,7 @@ def supp_use_ID(id_tache: int):
         if tache.Id == id_tache:
             taches.remove(tache)
             return {"message": "tache supprimee"}
-    raise HTTPException(status_code=404, detail="tache non trouve")
+    raise HTTPException(status_code=404, detail="tache non trouve dans cette liste de tache.")
 
 #modifier en utilisant l'ID
 @app.put("/tache/id/{id_tache}", response_model = Tache) 
